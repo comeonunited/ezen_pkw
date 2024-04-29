@@ -1,0 +1,3 @@
+\06.JSP\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\work\Catalina\localhost\jsp01_basic\org\apache\jsp\jsp01_005fhello
+
+jsp 클래스가 저장되어 있는 폴더위치
